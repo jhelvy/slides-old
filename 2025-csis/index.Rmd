@@ -88,6 +88,18 @@ background-color: #fff
 
 ---
 
+background-color: #fff
+
+## .center[EV sales in US reaching ~10% of sales]
+
+<center>
+<img src="images/ev-sales-us.png" width=70%>
+</center>
+
+.font80[Source: Argonne National Lab, https://www.anl.gov/ev-facts/model-sales]
+
+---
+
 class: center
 background-color: #fff
 
@@ -112,20 +124,26 @@ background-color: #fff
 class: center
 background-color: #fff
 
-## There are _very_ few affordable BEVs in the US
+## BEVs Concentrated in High-Price Segments in US
+
+<br>
+
+.font120[In 2021, BEVs just 1.1% of new and 0.6% of used listings under $45,000]
 
 <center>
-<img src="images/bev_percent_listings.png" width=100%>
+<img src="images/bev_percent_listings_edit.png" width=100%>
 </center>
 
-Data pulled from >60k dealerships, 2016 to 2021. Source: marketcheck.com
+<br>
+
+.font80[Data pulled from >60k dealerships, 2016 to 2021. Source: marketcheck.com]
 
 ---
 
 class: center
 background-color: #fff
 
-# The US has affordable EV deserts
+# The BEV Deserts of America
 
 <center>
 <img src="images/burden_map_25k.png" width=100%>
@@ -143,7 +161,7 @@ background-color: #fff
 
 --
 
-## Effectively banning the use of Chinese suppliers (inc. raw materials) in US EVs
+## Effectively banning the use of Chinese suppliers 
 
 ---
 
@@ -175,7 +193,7 @@ background-color: #fff
 
 class: middle, center, inverse
 
-# We need to stop viewing EVs as .green["environmental" technology]<br>and start viewing as<br>.yellow["essential" technology]
+# We need to stop viewing EVs as<br>.green[_environmental_ technology]<br><br>and start viewing them as<br>.yellow[_essential_ technology]
 
 ---
 
